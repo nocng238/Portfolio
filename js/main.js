@@ -8,3 +8,4 @@ menuButton.addEventListener('click', ()=>{
 } )
 console.log("SSH")
 console.log("another example for ssh")
+console.log("1 more time")
