@@ -7,3 +7,4 @@ menuButton.addEventListener('click', ()=>{
     menuButton.classList.toggle("open")
 } )
 console.log("SSH")
+console.log("another example for ssh")
